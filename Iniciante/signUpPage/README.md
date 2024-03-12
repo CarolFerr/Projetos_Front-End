@@ -1,5 +1,11 @@
 
 # Página de Cadastro/ Sign Up Page
+![Captura de tela 2024-03-12 203840](https://github.com/CarolFerr/Projetos_Front-End/assets/114115953/450e17d6-7134-4f51-bb12-0bbb362b37a2)
+Imagem do projeto
+![Captura de tela 2024-03-12 203947](https://github.com/CarolFerr/Projetos_Front-End/assets/114115953/59316362-ca53-4dfe-b952-1aa9b07739a9)
+Imagem do projeto com um usuário fake demonstrando a funcionalidade do botão ao deixar a "senha" não evidenciada
+![Captura de tela 2024-03-12 204037](https://github.com/CarolFerr/Projetos_Front-End/assets/114115953/0d3e90c9-c174-48ce-939b-17824359f1d5)
+Imagem do projeto com usuário fake demostrando a funcionalidade do botão ao deixar a "senha" visivel
 
 ## PT-BR
 
