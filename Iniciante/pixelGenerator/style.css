@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+body{
+    background-color: #5f9ea0;
+}
+
+.wrapper{ 
+    background-color: #fff;
+    width: 80vmin;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 40px 20px;
+    border-radius: 8px;
+}
+
+label{
+    display: block;
+}
+
+span{
+    position: relative;
+    font-size: 22px;
+    bottom: -1px;
+}
+
+.opt-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+button{
+    background-color: #5f9ea0;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    color: #000;
+}
+
+/*Apperance substitui o -webkit-apperance => define como os elementos devem ser exibidos no navegador, independentemente das configurações de estilo padrão do sistema operacional, ou seja, controla o estilo de renderização padrão de elementos como botões, caixas de seleção e outros controles de formulário*/
+
+input[type="color"]{
+    appearance: none;
+    background-color: transparent;
+    width: 70px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+
+/*A estrutura abaixo é um exemplo de pseudo-elementos ::-webkit-color-swatch (para navegadores baseados em webkit (safari e chrome) -> renderização de páginas web, rapidez, versatilidade, eficiência e confiabilidade) ou ::-moz-color-swatch (psra navegadores baseados em Gecko - Firefox) para aplicar estilos em botões. No entanto, esses prefiixos estão cada vez menos necessários uma vez que os navegadores modernos geralmene suportam as propriedades sem os prefixos*/
+
+input[type="color"]::-webkit-color-swatch{
+    border-radius: 8px;
+    border: 2px solid #fff;
+}
+
+input[type="color"]::-moz-color-swatch{
+    border-radius: 8px;
+    border: 2px solid #fff;
+}
+
+/*1em signifca o tamanho da fonte em relativo ao elemento pai e pode ser calculado em pixels com base no tamnho da fonte do elemento pai*/
+
+.gridCol{
+    height: 1em;
+    width: 1em;
+    border: 1px solid #ddd;
+}
+
+.gridRow{
+    display: flex;
+}
+
+/*@media only screen and (max-width:768): regra de midia que aplica estilos somente quando a largura da tela é igual ou menor que 768 pixels. Ela se aplica a dispositivos com telas menores, como smartphones e tablets.
+.gridCol: tudo que está contido ness bloquinho ajustam a altura e largura dos elementos com essa classe para serem proporcionais à fonte do elemento pai, especialmente em telas menores. Isso pode ser útil para criar layouts responsivos em designs de grade.*/
+
+@media only screen and (max-width: 768px){
+    .gridCol{
+        height: 0.8em;
+        width: 0.8em;
+    }
+}
