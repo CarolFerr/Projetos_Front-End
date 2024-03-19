@@ -8,9 +8,12 @@ Desktop
 ![Captura de tela 2024-03-19 115408](https://github.com/CarolFerr/Projetos_Front-End/assets/114115953/3848dc3c-b246-473f-9e75-a89e81559c3d)
 
 Tablet
+
 ![tablet.gif](https://github.com/CarolFerr/Projetos_Front-End/blob/main/Iniciante/landingPage/img/tablet.gif)
 
 Android
+
+![android.gif](https://github.com/CarolFerr/Projetos_Front-End/blob/main/Iniciante/landingPage/img/android.gif)
 
 ## PT-BR
 
