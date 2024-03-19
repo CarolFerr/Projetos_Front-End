@@ -1,5 +1,16 @@
 
 # Landing Page
+## 📷Screencast
+
+Desktop
+
+![Captura de tela 2024-03-19 115347](https://github.com/CarolFerr/Projetos_Front-End/assets/114115953/441e871a-7c9d-4f4d-bb3e-bb728097b997)
+![Captura de tela 2024-03-19 115408](https://github.com/CarolFerr/Projetos_Front-End/assets/114115953/3848dc3c-b246-473f-9e75-a89e81559c3d)
+
+Tablet
+![tablet.gif](https://github.com/CarolFerr/Projetos_Front-End/blob/main/Iniciante/landingPage/img/tablet.gif)
+
+Android
 
 ## PT-BR
 
@@ -48,3 +59,9 @@ This project is under the MIT license.
 
 ## ⚠️Observação
 The page has other buttons such as: explore, log in, create account, as well as other possible links in the footer for future implementation.
+
+
+
+
+
+
