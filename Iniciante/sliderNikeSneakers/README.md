@@ -1,7 +1,7 @@
 
 # Carrossel de Tênis Nike /Slider Nike Sneakers
 
-![Imagem_desktop]()
+![Imagem_desktop](https://github.com/CarolFerr/Projetos_Front-End/blob/main/Iniciante/sliderNikeSneakers/Imagem_desktop.png)
 
 ## PT-BR
 
