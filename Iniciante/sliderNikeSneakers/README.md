@@ -1,6 +1,8 @@
 
 # Carrossel de Tênis Nike /Slider Nike Sneakers
 
+![Imagem_desktop]()
+
 ## PT-BR
 
 ## 📝 Descrição
