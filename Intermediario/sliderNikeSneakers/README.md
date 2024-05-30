@@ -1,6 +1,14 @@
 
 # Carrossel de Tênis Nike /Slider Nike Sneakers
 
+Captura de Tela Desktop
+
+![Imagem_desktop](https://github.com/CarolFerr/Projetos_Front-End/blob/main/Intermediario/sliderNikeSneakers/Imagem_desktop.png)
+
+Captura de Tela iPhone 13 PRO
+
+![Imagem_iPhone-13-PRO](https://github.com/CarolFerr/Projetos_Front-End/blob/main/Intermediario/sliderNikeSneakers/Imagem_iPhone-13-PRO-.png)
+
 ## PT-BR
 
 ## 📝 Descrição
