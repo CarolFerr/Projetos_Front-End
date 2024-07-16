@@ -10,3 +10,4 @@
 
 ## 🟠Intermediario
 1. [*Carrossel de Tênis Nike/Slider Nike Sneakers*](https://github.com/CarolFerr/Projetos_Front-End/tree/main/Intermediario/sliderNikeSneakers)
+2. [*Restaurante Siri Cascudo/Krusty Krab Restaurant*](https://github.com/CarolFerr/Projetos_Front-End/tree/main/Intermediario/projeto_krust_krab)
