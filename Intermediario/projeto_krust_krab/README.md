@@ -1,5 +1,7 @@
 # Restaurante Siri Cascudo/Krusty Krab Restaurant
 
+![Capturas de tela](https://github.com/CarolFerr/Projetos_Front-End/blob/main/Intermediario/projeto_krust_krab/Layout%20Restaurante%20Siri%20Cascudo.png)
+
 ## PT-BR
 ## 📝 Descrição
 Este projeto consiste na criação de um site para o icônico restaurante Siri Cascudo do desenho animado Bob Esponja, utilizando o framework Vue.js para o frontend e um banco de dados JSON (db.json) para o backend, sendo o banner desenvolvido pela Inteligênica Artificial da Microsoft Copilot.
