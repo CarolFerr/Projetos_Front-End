@@ -1,0 +1,159 @@
+{
+  "ingredientes": {
+    "breads": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Krabby Patty"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      },
+      {
+        "id": 5,
+        "tipo": "Grão de Bico"
+      }
+    ],
+    "toppings": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Picles"
+      },
+      {
+        "id": 4,
+        "tipo": "Alface"
+      },
+      {
+        "id": 5,
+        "tipo": "Ketchup"
+      },
+      {
+        "id": 5,
+        "tipo": "Mostarda"
+      },
+      {
+        "id": 5,
+        "tipo": "Maionese"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "name": "Lula Molusco",
+      "meat": "Veggie burger",
+      "bread": "3 Queijos",
+      "toppings": [
+        "Picles",
+        "Ketchup",
+        "Maionese"
+      ],
+      "status": "Finalizado",
+      "id": 3
+    },
+    {
+      "name": "Alex",
+      "meat": "Maminha",
+      "bread": "Italiano Branco",
+      "toppings": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Picles",
+        "Maionese",
+        "Mostarda",
+        "Ketchup"
+      ],
+      "status": "Finalizado",
+      "id": 4
+    },
+    {
+      "name": "Catia",
+      "meat": "Picanha",
+      "bread": "3 Queijos",
+      "toppings": [
+        "Bacon",
+        "Picles",
+        "Tomate"
+      ],
+      "status": "Finalizado",
+      "id": 5
+    },
+    {
+      "name": "Bob Sponja",
+      "meat": "Maminha",
+      "bread": "3 Queijos",
+      "toppings": [
+        "Bacon",
+        "Tomate",
+        "Picles",
+        "Maionese"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    }
+  ]
+}
